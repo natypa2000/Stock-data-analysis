@@ -27,7 +27,7 @@ This Python-based tool allows users to fetch, analyze, visualize, and export sto
 
 3. Obtain an API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
 
-4. Replace `'YOUR_API_KEY'` in the Stock_data.py script with your actual Alpha Vantage API key.
+4. Replace `'YOUR_API_KEY'` in the data_fetcher.py script with your actual Alpha Vantage API key.
 
 ## Usage
 
